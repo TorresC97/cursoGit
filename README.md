@@ -22,3 +22,18 @@ para agregar archivos al staying:
 ´´´
 gir add .
 ´´´
+
+#Ramas
+
+Para ver todas las ramas usamos:
+´´´
+git branch
+´´´
+para agregar nueva rama usamos:
+´´´
+git branch nombre_rama
+´´´
+para cambiar de rama usamos:
+´´´
+git checkaut nombre_rama
+´´´
